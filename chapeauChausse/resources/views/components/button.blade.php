@@ -7,5 +7,5 @@
     'text-clr-mid-900 bg-clr-mid-100' =>$type=='acheter',
     'text-clr-mid-600 bg-clr-mid-500' =>$type=='calltoaction',
 ])>
-  Button
+  {{ $slot }}
 </button>
