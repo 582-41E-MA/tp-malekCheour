@@ -9,7 +9,7 @@
   
   <main class="max-w-6xl mx-auto pt-10 pb-36 px-8">
   <x-panier>Cart</x-panier>
- <div class='bg-clr-fonce-900 mt-2.5 py-1'>clr-fonce-900</div>
+ <div class='bg-clr-fonce-900 mt-2.5 py-2'>clr-fonce-900</div>
 <div class='bg-clr-fonce-800 mt-2.5 py-2'>clr-fonce-800</div>
 <div class='bg-clr-fonce-700 mt-2.5 py-2'>clr-fonce-700</div>
 <div class='bg-clr-fonce-600 mt-2.5 py-2'>clr-fonce-600</div>
