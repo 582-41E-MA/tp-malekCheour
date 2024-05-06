@@ -5,7 +5,7 @@ use App\Http\Controllers\ProduitController;
 use App\Http\Controllers\UtilisateurController;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('accueil');
 });
 
 Route::get('/test', function () {
