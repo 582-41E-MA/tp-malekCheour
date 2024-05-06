@@ -14,7 +14,7 @@
 
           <a
             href="#"
-            class="mt-8 inline-block rounded border border-gray-900 bg-gray-900 px-12 py-3 text-sm font-medium text-white transition hover:shadow focus:outline-none focus:ring"
+            class="mt-8 inline-block rounded border border-gray-900 bg-gray-900 px-12 py-3 text-sm font-medium text-clr-mid-100 transition hover:shadow focus:outline-none focus:ring"
           >
             Shop All
           </a>
