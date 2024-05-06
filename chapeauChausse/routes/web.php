@@ -12,6 +12,10 @@ Route::get('/test', function () {
     return view('test');
 });
 
+Route::get('/panier', function () {
+    return view('panier');
+});
+
 
 //Route pour les produits
 Route::get('/produits', [ProduitController::class, 'index']);

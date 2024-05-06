@@ -166,7 +166,7 @@
                                       <p class="whitespace-nowrap text-xs">2 Discounts Applied</p>
                                   </span>
                               </div>
-                                <x-button type='success'>Test</x-button>
+                                
                               <div class="flex justify-end">
                                   <a href="#"
                                       class="block rounded bg-gray-700 px-5 py-3 text-sm text-gray-100 transition hover:bg-gray-600">

@@ -8,6 +8,13 @@
 <div class="mt-24">
   
   <main class="max-w-6xl mx-auto pt-10 pb-36 px-8">
+  {{-- Le bouton ci-dessous sert d'exemple 
+  -> ajouter un type de la liste disponible dans /views/components/button.blade
+  pour modifier le style du bouton et remplacer Test par le mot que vous voulez retrouver à l'intérieur du btn
+  --}}
+  <x-button type='success'>Test</x-button>
+
+
   <x-panier>Cart</x-panier>
  <div class='bg-clr-fonce-900 mt-2.5 py-2'>clr-fonce-900</div>
 <div class='bg-clr-fonce-800 mt-2.5 py-2'>clr-fonce-800</div>
